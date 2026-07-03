@@ -21,3 +21,14 @@ npm-debug.log*
 # Auto-push script (local only)
 auto_push.ps1
 auto_push.log
+
+# IDE / Editor
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Secrets & API keys
+*.env
+.env.*
+secrets.json
